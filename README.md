@@ -1,10 +1,10 @@
 # James Maes
 
-People, family, and golden retrievers keep me grounded.
-Coffee, Canon glass, and code keep me inspired.
-Builder of teams, companies, and software that ships.
-
+Startup and growth CTO. Founder at [QRun-IO](https://github.com/QRun-IO).
 Currently building GFS.
+
+Twenty-plus years building teams, companies, and the software they run on.
+Most of the work isn't on GitHub.
 
 ---
 
@@ -21,12 +21,3 @@ Currently building GFS.
 ---
 
 St. Louis &nbsp;·&nbsp; [koftwentytwo.com](https://www.koftwentytwo.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/james-maes) &nbsp;·&nbsp; [Mastodon](https://mastodon.social/@koftwentytwo)
-
-<br />
-
-<a href="https://github.com/KofTwentyTwo">
-  <img src="https://github-readme-stats.vercel.app/api?username=KofTwentyTwo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=transparent" height="120" alt="GitHub stats" />
-</a>
-<a href="https://github.com/KofTwentyTwo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KofTwentyTwo&layout=compact&hide_border=true&langs_count=6&theme=transparent" height="120" alt="Top languages" />
-</a>
