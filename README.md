@@ -1,6 +1,6 @@
 # James Maes
 
-Startup and growth CTO. Founder at [QRun-IO](https://github.com/QRun-IO).
+CTO at Me.Health. Founder at [QRun-IO](https://github.com/QRun-IO).
 Currently building GFS.
 
 Twenty-plus years building teams, companies, and the software they run on.
