@@ -1,6 +1,6 @@
 # James Maes
 
-CTO at Me.Health. Founder at [QRun-IO](https://github.com/QRun-IO).
+Software Engineer & CTO. Founder at [QRun-IO](https://github.com/QRun-IO). Full-time CTO at Me.Health.
 Currently building GFS.
 
 Twenty-plus years building teams, companies, and the software they run on.
@@ -40,11 +40,11 @@ The framework QRun-IO is built on. Surrounding it: [qctl](https://github.com/QRu
 
 ### Writing & Projects
 
-Longer-form essays and project notes live at [koftwentytwo.com](https://www.koftwentytwo.com):
+Longer-form essays and project notes live at [kof22.com](https://www.kof22.com):
 
-- **[Writing](https://www.koftwentytwo.com/writing)** &nbsp;—&nbsp; essays, notes, and the occasional opinion.
-- **[Projects](https://www.koftwentytwo.com/projects)** &nbsp;—&nbsp; the work behind what's in this README, in longer form.
+- **[Blogs](https://www.kof22.com/blogs)** &nbsp;—&nbsp; essays, notes, and the occasional opinion.
+- **[Projects](https://www.kof22.com/projects)** &nbsp;—&nbsp; the work behind what's in this README, in longer form.
 
 ---
 
-St. Louis &nbsp;·&nbsp; [koftwentytwo.com](https://www.koftwentytwo.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/james-maes) &nbsp;·&nbsp; [Mastodon](https://mastodon.social/@koftwentytwo)
+St. Louis &nbsp;·&nbsp; [kof22.com](https://www.kof22.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/james-maes) &nbsp;·&nbsp; [Mastodon](https://mastodon.social/@koftwentytwo)
