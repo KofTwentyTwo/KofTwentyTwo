@@ -1,6 +1,7 @@
 # James Maes
 
-Software Engineer & CTO. Founder at [QRun-IO](https://github.com/QRun-IO). Full-time CTO at Me.Health.
+Startup and Growth CTO. Software Engineer at heart.
+Founder at [QRun-IO](https://github.com/QRun-IO). Full-time CTO at Me.Health.
 Currently building GFS.
 
 Twenty-plus years building teams, companies, and the software they run on.
