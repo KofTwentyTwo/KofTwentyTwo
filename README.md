@@ -45,6 +45,22 @@ The framework QRun-IO is built on. Surrounding it: [qctl](https://github.com/QRu
 
 ---
 
+### Install
+
+Public CLIs are published as Homebrew formulas — install with one line, update with `brew upgrade`.
+
+```sh
+# limen — terminal launcher TUI for tmux + ssh
+brew install KofTwentyTwo/tap/limen
+
+# qctl — CLI for the QRun-IO / QQQ ecosystem
+brew install QRun-IO/qctl/qctl
+```
+
+Taps: [KofTwentyTwo/homebrew-tap](https://github.com/KofTwentyTwo/homebrew-tap) · [QRun-IO/homebrew-qctl](https://github.com/QRun-IO/homebrew-qctl)
+
+---
+
 ### Writing & Projects
 
 Longer-form essays and project notes live at [kof22.com](https://www.kof22.com):
