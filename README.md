@@ -39,6 +39,8 @@ The framework QRun-IO is built on. Surrounding it: [qctl](https://github.com/QRu
 
 **[Claritas](https://github.com/KofTwentyTwo/Claritas)** &nbsp;—&nbsp; IntelliJ plugin that transforms messy comments and incomplete Javadocs into structured documentation. PSI-based analysis enforces team standards while preserving content and keeping every transformation safely reversible — comment flowerboxing with configurable borders and width, Javadoc generation from method signatures, file-wide formatting in a single undo action. Multi-module Gradle: a pure Kotlin core library and a thin IntelliJ adapter, so the formatting logic can be reused in CLI tools or other editors later.
 
+**[notion-sql](https://github.com/KofTwentyTwo/notion-sql)** &nbsp;—&nbsp; SQL interface for Notion databases. A Rust CLI that parses real SQL with `sqlparser`, introspects Notion database schemas, and translates CRUD statements into typed Notion API calls. Supports SELECT (with WHERE/ORDER/LIMIT/COUNT), INSERT, UPDATE, DELETE; dry-run by default with `--apply` flag for mutations. Pre-built binaries for macOS (ARM64/x86_64), Linux, and Windows; Homebrew formula published to `KofTwentyTwo/tap`. Built with Rust + sqlparser + Notion REST API.
+
 **[limen](https://github.com/KofTwentyTwo/limen)** &nbsp;—&nbsp; *threshold.* The two-stage terminal launcher TUI that runs before tmux: pick a host (localhost or a declared SSH target) with live reachability dots and session counts, then pick a session to attach or create. Press `Esc` at any point and `limen` drops you into a fresh unnamed session at the appropriate host. No deliberation tax. Single JSON file declares the fleet. Go + Bubble Tea; installs via Nix or Homebrew tap.
 
 **[obsidian-penny](https://github.com/KofTwentyTwo/obsidian-penny)** &nbsp;—&nbsp; PENNY — Prose Engine for Narrative, Notes, and Yarns. AI co-author for Obsidian: drop annotations like `%% REWRITE: more tension here %%` into a chapter and PENNY rewrites the passage against your style guide and voice tests, then saves a new numbered version (`ch-05.v2.md`) and writes a review file summarizing what changed. Routes by task complexity — CUT and PACING can ride a fast/cheap model while REWRITE and DIALOG go to the strongest. Anthropic API, Ollama, or both.
@@ -50,6 +52,9 @@ The framework QRun-IO is built on. Surrounding it: [qctl](https://github.com/QRu
 Public CLIs are published as Homebrew formulas — install with one line, update with `brew upgrade`.
 
 ```sh
+# notion-sql — SQL interface for Notion databases (Rust CLI)
+brew install KofTwentyTwo/tap/notion-sql
+
 # limen — terminal launcher TUI for tmux + ssh
 brew install KofTwentyTwo/tap/limen
 
@@ -57,7 +62,7 @@ brew install KofTwentyTwo/tap/limen
 brew install QRun-IO/qctl/qctl
 ```
 
-Taps: [KofTwentyTwo/homebrew-tap](https://github.com/KofTwentyTwo/homebrew-tap) · [QRun-IO/homebrew-qctl](https://github.com/QRun-IO/homebrew-qctl)
+Taps: [KofTwentyTwo/tap](https://github.com/KofTwentyTwo/homebrew-tap) · [QRun-IO/qctl](https://github.com/QRun-IO/homebrew-qctl)
 
 ---
 
