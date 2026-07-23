@@ -13,7 +13,7 @@ Most of the work isn't on GitHub.
 
 **At QRun-IO**
 
-**[QQQ](https://github.com/QRun-IO/qqq)** &nbsp;—&nbsp; Metadata-driven application framework for Java. Define your data model and business rules through metadata, and QQQ generates the working application — REST API, React dashboard, CLI, and Lambda handlers from the same codebase. Apache 2.0, stable, used in production.
+**[QQQ](https://github.com/QRun-IO/qqq)** &nbsp;—&nbsp; Metadata-driven application framework for Java. Define your data model and business rules through metadata, and QQQ generates the working application — REST API, React dashboard, CLI, and Lambda handlers from the same codebase. Apache 2.0, stable, used in production. [qrun.io](https://qrun.io)
 
 **[qqq-business-platform](https://github.com/QRun-IO/qqq-business-platform)** &nbsp;—&nbsp; Complete self-hosted business platform (CMS, newsletter, auth, admin dashboard) built on QQQ. A production-ready open-source alternative to Squarespace, ConvertKit, and HubSpot.
 
