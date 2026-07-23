@@ -1,7 +1,7 @@
 # James Maes
 
 Startup and Growth CTO. Software Engineer at heart.
-Founder at [QRun-IO](https://github.com/QRun-IO). Full-time CTO at [Me.Health](https://www.me.health).
+Founder at [QRun-IO](https://github.com/QRun-IO). Creator of [Nuncio](https://nuncio.mx). Full-time CTO at [Me.Health](https://www.me.health).
 Currently building GFS.
 
 Twenty-plus years building teams, companies, and the software they run on.
