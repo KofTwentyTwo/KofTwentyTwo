@@ -16,11 +16,6 @@ Most of the work isn't on GitHub. My writing and project journals live at
 | [MarkdownViewr](https://github.com/KofTwentyTwo/MarkdownViewr.Windows) | Read Markdown with live reload, document themes, highlighted source, a table of contents, printing, and PDF export. | [EXE installer](https://github.com/KofTwentyTwo/MarkdownViewr.Windows/releases/latest/download/markdownviewr-windows-stable-Setup.exe) · [MSI installer](https://github.com/KofTwentyTwo/MarkdownViewr.Windows/releases/latest/download/markdownviewr-windows-stable.msi) · [Portable ZIP](https://github.com/KofTwentyTwo/MarkdownViewr.Windows/releases/latest/download/markdownviewr-windows-stable-Portable.zip) |
 | [gclo](https://github.com/KofTwentyTwo/gclo) | Clone and update an organization's GitHub repositories in parallel, with a Windows desktop app and CLI. | [EXE installer](https://github.com/KofTwentyTwo/gclo/releases/latest/download/gclo-stable-Setup.exe) · [Portable ZIP and CLI](https://github.com/KofTwentyTwo/gclo/releases/latest) |
 
-These links follow the latest stable release. MarkdownViewr's EXE and MSI
-installers are signed; choose one installer format. Development editions are
-listed separately on the [MarkdownViewr](https://github.com/KofTwentyTwo/MarkdownViewr.Windows/releases)
-and [gclo](https://github.com/KofTwentyTwo/gclo/releases) release pages.
-
 MarkdownViewr for Windows is based on Darin Kelkhoff's
 [original macOS app](https://github.com/darinkelkhoff/markdownViewr).
 
