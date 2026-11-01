@@ -1,0 +1,6 @@
+{
+  "purpose": "Initial central source syntax and secret scan qualification",
+  "coverage": "source-config; does not assert application build/test/deploy parity",
+  "source_base": "9efbb48cbdfe500763e4191bb370f0f2bbbb8353",
+  "workflow": "8fd9332f616af83874295603adab9a7fcf531f5e"
+}
